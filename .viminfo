@@ -1,0 +1,51 @@
+# Vim 7.4 generó este archivo "viminfo".
+# Puede editarlo, ¡sólo si tiene cuidado!
+
+# Valor de 'encoding' cuando se escribió este archivo
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Historia de Línea de órdenes (de lo más nuevo a lo más antiguo):
+:wq
+:q!
+
+# Historia de Cadena de búsqueda (de lo más nuevo a lo más antiguo):
+
+# Historia de Expresión (de lo más nuevo a lo más antiguo):
+
+# Historia de Línea de entrada (de lo más nuevo a lo más antiguo):
+
+# Historia de Línea de entrada (de lo más nuevo a lo más antiguo):
+
+# Registros:
+""-	CHAR	0
+	>
+
+# Marcas en el archivo:
+'0  31  3  /opt/openfire/conf/openfire.xml
+'1  33  30  /opt/openfire/conf/openfire.xml
+
+# Lista de saltos (el más reciente va primero):
+-'  31  3  /opt/openfire/conf/openfire.xml
+-'  1  0  /opt/openfire/conf/openfire.xml
+-'  33  30  /opt/openfire/conf/openfire.xml
+
+# Historia de las marcas en los archivos (de la más reciente a la más antigua):
+
+> /opt/openfire/conf/openfire.xml
+	"	31	3
+	^	31	4
+	.	31	4
+	+	31	3
+	+	34	18
+	+	33	31
+	+	31	3
+	+	34	16
+	+	32	15
+	+	32	14
+	+	32	13
+	+	33	0
+	+	35	0
+	+	31	4
